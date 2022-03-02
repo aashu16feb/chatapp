@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019338914269",
+    "project_id": "interestchat-574c7",
+    "storage_bucket": "interestchat-574c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019338914269:android:d76f9211a99de449925e34",
+        "android_client_info": {
+          "package_name": "com.example.interestchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019338914269-urs81mom3nrf7en0qc3lmrq3fapqkki8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXbpkmVesRjqhDNXc6CnvBH2ZZp4kuxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019338914269-urs81mom3nrf7en0qc3lmrq3fapqkki8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
